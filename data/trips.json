@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "boat": "Patterson Brothers - Spirit of Harmony",
+        "from": "Natovi Landing",
+        "to": "Nabouwalu",
+        "date": "2026-11-05",
+        "time": "05:30",
+        "price": 65,
+        "seats": 280
+    },
+    {
+        "id": 2,
+        "boat": "Goundar Shipping - Lomaiviti Princess",
+        "from": "Suva",
+        "to": "Savusavu",
+        "date": "2026-11-07",
+        "time": "18:00",
+        "price": 95,
+        "seats": 450
+    },
+    {
+        "id": 3,
+        "boat": "Bligh Water Shipping - Westerland",
+        "from": "Lautoka",
+        "to": "Savusavu",
+        "date": "2026-11-09",
+        "time": "20:00",
+        "price": 105,
+        "seats": 250
+    },
+    {
+        "id": 4,
+        "boat": "South Sea Cruises - Tiger IV",
+        "from": "Port Denarau",
+        "to": "Mana Island",
+        "date": "2026-11-10",
+        "time": "09:00",
+        "price": 120,
+        "seats": 150
+    }
+]
